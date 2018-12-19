@@ -1,0 +1,1 @@
+export const GET_SHOP_DATA='two/get_shop_data'
